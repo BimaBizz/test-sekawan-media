@@ -16,12 +16,12 @@ Dashboard Kit is a comprehensive web application built using React, Next.js, and
 1. Clone the repository:
 
 ```bash
-	git clone https://github.com/BimaBizz/test-sekawan-media.git
-	cd test-sekawan-media
+git clone https://github.com/BimaBizz/test-sekawan-media.git
+cd test-sekawan-media
 ```
 2. Install the dependencies:
 ```bash
-`	npm install`
+npm install`
 ```
 3. Start the development server:
 ```bash
