@@ -25,7 +25,7 @@ npm install`
 ```
 3. Start the development server:
 ```bash
-	npm run dev
+npm run dev
 ```
 ## Usage
 To use the Dashboard Kit, simply navigate to the URL provided by the development server (typically `http://localhost:5173/`).
